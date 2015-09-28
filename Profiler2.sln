@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Profiler2", "Profiler2\Profiler2.csproj", "{39AE2CBA-9E9B-4DBE-9694-F4F3B7A7BE4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProfiler2", "UnitTestProfiler2\UnitTestProfiler2.csproj", "{D63A823E-F24A-467D-80A3-F8066B9EEAA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39AE2CBA-9E9B-4DBE-9694-F4F3B7A7BE4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39AE2CBA-9E9B-4DBE-9694-F4F3B7A7BE4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39AE2CBA-9E9B-4DBE-9694-F4F3B7A7BE4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39AE2CBA-9E9B-4DBE-9694-F4F3B7A7BE4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D63A823E-F24A-467D-80A3-F8066B9EEAA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D63A823E-F24A-467D-80A3-F8066B9EEAA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D63A823E-F24A-467D-80A3-F8066B9EEAA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D63A823E-F24A-467D-80A3-F8066B9EEAA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
